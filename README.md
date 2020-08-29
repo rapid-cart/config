@@ -1,1 +1,1 @@
-Config File name should be <Service-name>.yml
+Config File name should be "Service-name".yml
